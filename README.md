@@ -45,7 +45,6 @@ I am actively exploring opportunities where I can **learn fast, build impactful 
 - GUI-based system with secure database integration  
 - Reduced manual attendance effort significantly  
 
-🔗 *GitHub:* (Add project link)
 
 ---
 
@@ -55,7 +54,6 @@ I am actively exploring opportunities where I can **learn fast, build impactful 
 - Interactive Streamlit UI with filtering & CSV export  
 - Handles lazy-loaded and JavaScript-rendered content  
 
-🔗 *GitHub:* (Add project link)
 
 ---
 
@@ -65,7 +63,6 @@ I am actively exploring opportunities where I can **learn fast, build impactful 
 - CRUD functionality with role-based access  
 - Clean UI with efficient backend logic  
 
-🔗 *GitHub:* (Add project link)
 
 ---
 
@@ -79,7 +76,6 @@ I am actively exploring opportunities where I can **learn fast, build impactful 
 ## 🤝 Let's Connect
 
 - 💼 LinkedIn: [Ridhi Sharma](https://www.linkedin.com/in/ridhi-sharma-284286330/)
-- 💻 GitHub: [@ridhisharma](https://github.com/ridhisharma)
 
 ---
 
